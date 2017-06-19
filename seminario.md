@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O custo computacional para prever a formação de proteínas, calcular um número primo ou produzir modelos climáticos é muito alto. Um modo de atacar esses problemas é utilzar servidores enormes com uma infraestrutura tão grande quanto para manter a integridade dos dados computados, um custo absurdo para muitos pesquisadores.
+O custo computacional para prever a formação de proteínas, calcular um número primo ou produzir modelos climáticos é muito alto. Um modo de atacar esses problemas é utilizar servidores enormes com uma infraestrutura tão grande quanto para manter a integridade dos dados computados, um custo absurdo para muitos pesquisadores.
 
 Com o advento da internet e cada vez maior número de máquinas domésticas e interconexão entre as pessoas, surge uma opção esse paradigma de pesquisa, a computação voluntária.
 
